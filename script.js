@@ -74,6 +74,7 @@ btn.onclick = function(){
             moodbutton = 'create';
             count.style.display = 'block';
             btn.innerHTML = 'Create';
+            
         }
        
     }
